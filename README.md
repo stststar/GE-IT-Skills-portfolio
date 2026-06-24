@@ -37,7 +37,7 @@ These projects made me realize that it is important to be more minimal with desi
 
 ### 3. Docs
 ####   -Design Preview
-![Infograpics](/docs/Infographic.png "Infographics")
+!<img width="800" height="2000" alt="Image" src="https://github.com/user-attachments/assets/b84129d0-04c3-4cc7-9419-8cfb5bbef690" />
 
 #### -Reflection
 This activity was challenging because I had to condense the information from each chapter into very short statements. Despite using brief text, the infographic still appeared crowded, which made me realize the importance of incorporating images, graphs, and other visual elements to communicate key information more effectively. For this project, I kept the design simple and included visual elements that support and represent the content. The overall design was inspired by the same theme and style used in my previous outputs.
