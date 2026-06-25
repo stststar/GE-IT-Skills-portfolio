@@ -1,6 +1,6 @@
 # GE-IT-Skills-portfolio
 # **Samantha J. Tanco**
-### ***"A Legacy of Trust. A FUture of Success"***
+### ***"A Legacy of Trust. A Future of Success"***
 
 ---
 
