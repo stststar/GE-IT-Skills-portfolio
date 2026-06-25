@@ -56,6 +56,8 @@ This activity made me realize that video editing requires a great deal of attent
 #### -Reflection for Prototype💕
 This activity made me realize that websites need to be interactive, visually appealing, and cohesive to keep viewers engaged and encourage them to continue browsing. In deciding  about the content for this website ,  I was challenged because there was a large amount of space to fill, yet only a limited amount of information that I wanted to include. For this project, I used the same design elements, color palette, and fonts from my previous projects to maintain consistency and strengthen my overall branding.
 
+---
+
 
 # **AI EXPLORER**
 
