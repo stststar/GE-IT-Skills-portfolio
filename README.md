@@ -13,6 +13,7 @@
 
 ### 1. 🌼C.R.A.P. Activity
 ####   -Design Preview🍀
+<img width="1148" height="1144" alt="Image" src="https://github.com/user-attachments/assets/6b697cf7-7d19-4bbc-b6cd-925f5d8686ce" />
 <img width="1815" height="990" alt="Image" src="https://github.com/user-attachments/assets/c29e3997-ef44-402e-b433-e08d3cce3452" />
 <img width="905" height="508" alt="Image" src="https://github.com/user-attachments/assets/d22f6c55-e773-444d-a0c7-2bfb87e3f435" />
 <img width="905" height="508" alt="Image" src="https://github.com/user-attachments/assets/30fb9d74-6e9d-4b30-a260-440ef4160a43" />
