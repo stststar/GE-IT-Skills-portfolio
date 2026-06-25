@@ -57,6 +57,15 @@ This activity made me realize that video editing requires a great deal of attent
 This activity made me realize that websites need to be interactive, visually appealing, and cohesive to keep viewers engaged and encourage them to continue browsing. In deciding  about the content for this website ,  I was challenged because there was a large amount of space to fill, yet only a limited amount of information that I wanted to include. For this project, I used the same design elements, color palette, and fonts from my previous projects to maintain consistency and strengthen my overall branding.
 
 
+AI EXPLORER
+Version,Prompt Modifier Added,Output Quality & Performance Reflection
+V1,"""Write a waste management plan for Samal Island.""","Too Generic: The AI suggested large-scale recycling industrial plants that are completely unfeasible given the island's geography, infrastructure, and LGU budget."
+V2,Added local LGU persona and specific mentions of local resorts and barangays.,"Better Tone: Improved alignment with community stakeholders, but still lacked actionable local constraints. The AI suggested unrealistic public-private partnership timelines."
+V3,"Added strict constraints against Western eco-trends; mandated focus on MRFs, tricab hauling, and a strict 3-step format.","Target Hit: Highly localized, actionable, realistic, and formatted perfectly for immediate review and implementation by the LGU Technical Working Group."
+
+
+
+
 
 ---
 
