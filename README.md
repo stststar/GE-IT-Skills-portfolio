@@ -130,14 +130,13 @@ I prompted an AI discovery tool to summarize recent literature on the Mindanao e
 #### 2. Visualizations Generated
 *(Embedded High-Contrast Bar Chart showing Cacao and Banana Yield Deviations vs. El Niño Southern Oscillation (ENSO) Peak Months from 2022–2025)*
 
-[Image Matrix: 2022-2025 Davao Region Crop Yield vs Climate Anomaly Graph]
+<img width="1376" height="768" alt="Gemini_Generated_Image_gjq3jogjq3jogjq3" src="https://github.com/user-attachments/assets/033e34b0-7b35-42f0-9fc9-654a5f93c704" />
 
 ---
 
 *(Embedded Dual-Axis Line Graph comparing Local LGU Climate-Smart Infrastructure Budgets against Annual Post-Harvest Loss Percentages from 2021–2026)*
 
-[Image Matrix: 2021-2026 Budgetary Allocation vs Post-Harvest Mitigation Efficiency]
-
+<img width="1376" height="768" alt="Gemini_Generated_Image_rjmc1mrjmc1mrjmc" src="https://github.com/user-attachments/assets/6fe95cf9-b90f-4376-992b-39c1f7dd0f45" />
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 "The data trends clearly expose a sharp, cascading 22% contraction in smallholder agricultural output centered between Q3 2023 and Q2 2024, directly correlating with prolonged sub-surface moisture deficits in Davao del Sur and Davao de Oro. Conversely, sub-regions that maintained consistent municipal infrastructure spending showed a 7% buffer against these losses.
 
