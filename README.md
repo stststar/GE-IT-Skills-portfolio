@@ -1,6 +1,6 @@
 # GE-IT-Skills-portfolio
 # **Samantha J. Tanco**
-### ***"Every journey begins with a choice."***
+### ***"A Legacy of Trust. A FUture of Success"***
 
 ---
 
